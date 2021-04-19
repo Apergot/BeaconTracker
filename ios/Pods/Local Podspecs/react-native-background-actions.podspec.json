@@ -1,0 +1,26 @@
+{
+  "name": "react-native-background-actions",
+  "version": "2.5.2",
+  "summary": "React Native background service library for running background tasks forever in Android & iOS",
+  "description": "react-native-background-actions",
+  "homepage": "git+https://github.com/Rapsssito/react-native-background-actions.git",
+  "license": "MIT",
+  "authors": {
+    "Rapsssito": "contact@rodrigomartin.dev"
+  },
+  "platforms": {
+    "ios": "9.0",
+    "tvos": "10.0"
+  },
+  "source": {
+    "git": "git+https://github.com/Rapsssito/react-native-background-actions.git",
+    "tag": "2.5.2"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}

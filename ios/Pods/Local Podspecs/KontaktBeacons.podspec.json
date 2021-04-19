@@ -1,0 +1,26 @@
+{
+  "name": "KontaktBeacons",
+  "version": "2.7.2",
+  "summary": "KontaktBeacons",
+  "description": "Cross-platform React Native module for detecting beacons with Android and iOS devices.",
+  "license": "MIT",
+  "homepage": "https://github.com/Artirigo/react-native-kontaktio",
+  "authors": {
+    "Andre Kovac": "me@andrekovac.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/Artirigo/react-native-kontaktio.git",
+    "tag": "master"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "exclude_files": "ios/KontaktSDK.framework/**/*",
+  "vendored_frameworks": "ios/KontaktSDK.framework",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

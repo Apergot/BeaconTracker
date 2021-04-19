@@ -1,0 +1,6 @@
+module Pods_balizame {
+  umbrella header "Pods-balizame-umbrella.h"
+
+  export *
+  module * { export * }
+}

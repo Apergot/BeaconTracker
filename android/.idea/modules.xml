@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/balizame.iml" filepath="$PROJECT_DIR$/.idea/modules/balizame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/balizame.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/balizame.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1497971773/balizame.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1497971773/balizame.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2033509036/balizame.react-native-background-actions.iml" filepath="$PROJECT_DIR$/.idea/modules/2033509036/balizame.react-native-background-actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1374340287/balizame.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1374340287/balizame.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/327108856/balizame.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/327108856/balizame.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-930819080/balizame.react-native-kontaktio.iml" filepath="$PROJECT_DIR$/.idea/modules/-930819080/balizame.react-native-kontaktio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/475102832/balizame.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/475102832/balizame.react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-278291932/balizame.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-278291932/balizame.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1470366561/balizame.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1470366561/balizame.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/187234489/balizame.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/187234489/balizame.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1699187306/balizame.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1699187306/balizame.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1541681630/balizame.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1541681630/balizame.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
